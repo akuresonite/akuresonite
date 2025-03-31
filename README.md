@@ -11,9 +11,8 @@ An &#60AI, ML&#62 enthusiast
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akuresonite&label=Profile%20views&color=0e75b6&style=flat" alt="akuresonite" /> </p>
 
 <h4 style=" font-family: JetBrains Mono; font-size: 12pt;">
-🌱 I’m actively doing research in <b>Machine Learning, Deep Learning, Multi Modal Generation, Computer Vision, also planning to contribute in open source ML-DL community.</b>
+🌱 I’m actively doing research in <b>Machine Learning, Deep Learning, Multi Modal Generation, Computer Vision, I'm also planning to contribute to the open-source ML-DL community. Additionally, I enjoy doing Python automation, video encoding, and working with multi-core CPUs and GPUs.</b>
 </h4>
-
 ---
 
 <h3 align="left", style=" font-family: JetBrains Mono; font-size: 12pt;">
