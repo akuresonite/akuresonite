@@ -1,7 +1,8 @@
-<h1 align="center", style=" font-family: JetBrains Mono; font-size: 20pt;">
-<b>Hi </b>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40", >, 
-I'm Ashish
+<h1 align="center" font-size: 60pt;">
+  <b>Hi </b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, 
+  I'm Ashish
+  <!-- <img src="https://github.com/akuresonite/akuresonite/blob/main/red_strip.gif"> -->
 </h1>
 
 <h3 align="center", style=" font-family: JetBrains Mono; font-size: 12pt;">
@@ -13,7 +14,7 @@ An &#60AI, ML&#62 enthusiast
 <h4 style=" font-family: JetBrains Mono; font-size: 12pt;">
 🌱 I’m actively doing research in <b>Machine Learning, Deep Learning, Multi Modal Generation, Computer Vision, I'm also planning to contribute to the open-source ML-DL community. Additionally, I enjoy doing Python automation, video encoding, and working with multi-core CPUs and GPUs.</b>
 </h4>
----
+<p align="left"> <img src="https://github.com/akuresonite/akuresonite/blob/main/red_strip.gif" alt="red_live" /> </p>
 
 <h3 align="left", style=" font-family: JetBrains Mono; font-size: 12pt;">
 <b>📫 Connect with me: </b>
@@ -24,7 +25,8 @@ An &#60AI, ML&#62 enthusiast
 <a href="https://www.hackerrank.com/akuresonite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akuresonite" height="30" width="40" /></a>
 </p>
 
----
+<!-- <p align="left"> <img src="https://github.com/akuresonite/akuresonite/blob/main/red_strip.gif" alt="red_live" /> </p> -->
+<hr>
 
 <h3 style=" font-family: JetBrains Mono; font-size: 12pt;">
 🛠 Languages and Tools :
