@@ -17,6 +17,10 @@ An &#60AI, ML&#62 enthusiast
 <p align="left"> <img src="https://github.com/akuresonite/akuresonite/blob/main/red_strip.gif" alt="red_live" /> </p>
 
 <h3 align="left", style=" font-family: JetBrains Mono; font-size: 12pt;">
+<b>🌐 Portfolio: <a href="https://akuresonite.github.io/">akuresonite.github.io</a></b>
+</h3>
+
+<h3 align="left", style=" font-family: JetBrains Mono; font-size: 12pt;">
 <b>📫 Connect with me: </b>
 </h3>
 <p align="left">
