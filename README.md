@@ -1,51 +1,53 @@
-<h1 align="center" font-size: 60pt;">
-  <b>Hi </b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, 
-  I'm Ashish
-  <!-- <img src="https://github.com/akuresonite/akuresonite/blob/main/red_strip.gif"> -->
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="wave" />, I'm Ashish
 </h1>
 
-<h3 align="center", style=" font-family: JetBrains Mono; font-size: 12pt;">
-An &#60AI, ML&#62 enthusiast
-</h3>
+<h3 align="center">An &lt;AI, ML&gt; enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akuresonite&label=Profile%20views&color=0e75b6&style=flat" alt="akuresonite" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akuresonite&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<h4 style=" font-family: JetBrains Mono; font-size: 12pt;">
-🌱 I’m actively doing research in <b>Machine Learning, Deep Learning, Multi Modal Generation, Computer Vision, I'm also planning to contribute to the open-source ML-DL community. Additionally, I enjoy doing Python automation, video encoding, and working with multi-core CPUs and GPUs.</b>
-</h4>
-<p align="left"> <img src="https://github.com/akuresonite/akuresonite/blob/main/red_strip.gif" alt="red_live" /> </p>
+---
 
-<h3 align="left", style=" font-family: JetBrains Mono; font-size: 12pt;">
-<b>🌐 Portfolio: <a href="https://akuresonite.github.io/">akuresonite.github.io</a></b>
-</h3>
+🌱 I'm actively doing research in **Machine Learning, Deep Learning, Multi-Modal Generation, and Computer Vision**. I'm planning to contribute to the open-source ML/DL community, and I also enjoy Python automation, video encoding, and working with multi-core CPUs and GPUs.
 
-<h3 align="left", style=" font-family: JetBrains Mono; font-size: 12pt;">
-<b>📫 Connect with me: </b>
-</h3>
+🌐 **Portfolio:** [akuresonite.github.io](https://akuresonite.github.io/)
+
+### 📫 Connect with me
+
 <p align="left">
-<a href="https://linkedin.com/in/ashish140899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish140899" height="30" width="40" /></a>
-<a href="https://kaggle.com/aashish31476" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aashish31476" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akuresonite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akuresonite" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ashish140899" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://kaggle.com/aashish31476" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://www.hackerrank.com/akuresonite" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
-<!-- <p align="left"> <img src="https://github.com/akuresonite/akuresonite/blob/main/red_strip.gif" alt="red_live" /> </p> -->
-<hr>
+---
 
-<h3 style=" font-family: JetBrains Mono; font-size: 12pt;">
-🛠 Languages and Tools :
-</h3>
-<p align="left"> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/logomark/numpylogoicon.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+### 🛠 Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Seaborn-44A1A0?style=for-the-badge&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akuresonite&show_icons=true&locale=en&layout=compact" alt="akuresonite" /></p>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akuresonite" alt="akuresonite stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akuresonite" alt="akuresonite top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akuresonite&hide_border=true" alt="akuresonite streak" />
+</p>
